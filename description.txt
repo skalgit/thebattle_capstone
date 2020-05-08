@@ -1,0 +1,10 @@
+Travelers, when visiting new places, face several problems.
+Questions that may arise are: 
+what are the best place with lots of attractions,museums, coffee bars, restaurants can I  visit and enjoy in my free time?
+Usually, we want to get the best deal we can. An important aspect to be considered is the cost of living and other parameters for that particular city. We would prefer to get the highest quality at a reasonable price.
+This software will calculate, for every capital city in Europe, a score number. Cities with same score will be highlited in a map using same color. Green color means good scoring. Red color means bad scoring. 
+This score will be calculated using parameters like attractions nearby, restaurants, bars (data taken from Foursquare), price index for that particular city etc (data taken from other providers)
+
+
+
+ 
