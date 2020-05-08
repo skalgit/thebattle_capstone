@@ -1,0 +1,8 @@
+For this project, we are going to use different data sources and providers.
+For example, to get all capital cities in Europe, you can download data from this website: https://www.nationsonline.org/oneworld/capitals_europe.htm.
+To get all trends, restaurant, bars etc we are using Foursquare that provides us almost all informations we need. 
+Finally, to get the cost of living info, we are using another data source website: 
+https://www.expatistan.com/cost-of-living/index/europe
+
+
+
